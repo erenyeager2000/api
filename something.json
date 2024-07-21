@@ -5059,14 +5059,14 @@
   "Bhama-Asked-WTP": [
     {
      "timestamp": "2024-07-21 00:00:00+00:00",
-            "temperature": 25.89,
-            "oxygen_saturation": 43.78,
-            "oxygen_partspermillion": 3.55,
-            "ph": 7.51,
-            "ph_redox": 413.62,
-            "conductivity": 207.92,
-            "salinity": 0.11,
-            "dissolved_solids": 104.94
+            "temperature": "25.89",
+            "oxygen_saturation": "43.78",
+            "oxygen_partspermillion": "3.55",
+            "ph": "7.51",
+            "ph_redox": "413.62",
+            "conductivity": "207.92",
+            "salinity": "0.11",
+            "dissolved_solids": "104.94"
     },
     {
       "timestamp": "2024-06-08T12:00:00+00:00",
