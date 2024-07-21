@@ -5058,15 +5058,15 @@
   },
   "Bhama-Asked-WTP": [
     {
-      "timestamp": "2024-06-08T18:00:00+00:00",
-      "temperature": "30.001340442233616",
-      "oxygen_saturation": "11.701034016079372",
-      "oxygen_partspermillion": "0.8799221879906125",
-      "ph": "6.930131713549296",
-      "ph_redox": "391.62485758463544",
-      "conductivity": "123.67937511867947",
-      "salinity": "0.06629214725560612",
-      "dissolved_solids": "62.43335172865126"
+     "timestamp": "2024-07-21 00:00:00+00:00",
+            "temperature": 25.89,
+            "oxygen_saturation": 43.78,
+            "oxygen_partspermillion": 3.55,
+            "ph": 7.51,
+            "ph_redox": 413.62,
+            "conductivity": 207.92,
+            "salinity": 0.11,
+            "dissolved_solids": 104.94
     },
     {
       "timestamp": "2024-06-08T12:00:00+00:00",
